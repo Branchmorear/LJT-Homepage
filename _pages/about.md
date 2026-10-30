@@ -40,7 +40,7 @@ I am a first-year PhD candidate in the **HKUST NLP Group** at the **Hong Kong Un
 
 ## Publications
 
-I have published papers at EMNLP, ICML, and NeurIPS, as well as arXiv preprints. A dedicated list is also available on the [Publications page](/publications/).
+I have published papers at EMNLP, ICML, and NeurIPS, as well as arXiv preprints. A dedicated list is also available on the [Publications page]({{ '/publications/' | relative_url }}).
 
 1. **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond." *arXiv*, 2025. (First author; code available on GitHub.)
 2. **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. "On the Perception Bottleneck of VLMs for Chart Understanding." *arXiv*, 2025. (First author; code available on GitHub — Vision4Chart.)
